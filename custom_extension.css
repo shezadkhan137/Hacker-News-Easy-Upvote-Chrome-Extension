@@ -1,0 +1,21 @@
+
+#hacker{
+
+	z-index: 1000;
+	position: fixed;
+	bottom: 30px;
+	left:30px;
+	height:30px;
+	width: 30px;
+
+}
+
+#hacker h1{
+	color: black;
+	font-size: 12px;
+}
+
+#hacker img{
+	width:30px;
+	height:30px;
+}
